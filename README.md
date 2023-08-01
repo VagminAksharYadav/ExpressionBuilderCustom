@@ -31,6 +31,6 @@ I have provided the PythonScript.py. Run that seperately or embed it into your a
 If you would like to add that you would be welcome to.
 
 If theres any issues in the code breaking or not successfully working. You can contact me through vagminaksharyadav@gmail.com. 
-Please remember the database used here for MySQL Workbench. If you want to use another database configure it correctly.
+Please remember the database used here was MySQL Workbench. If you want to use another database configure it correctly.
 
 As you can see now all you would have to do is replace the variables to reuse the equation.
