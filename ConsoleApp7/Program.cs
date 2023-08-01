@@ -7,11 +7,11 @@ namespace ExpressionSolver
         static void Main()
         {
             // Provide your MySQL server details here
-            string server = "127.0.0.1";
-            int port = 3306;
-            string database = "EquationTest";
-            string username = "root";
-            string password = "root123";
+            string server = "";
+            int port = ;
+            string database = "";
+            string username = "";
+            string password = "";
 
             // Create an instance of DatabaseHandler
             DatabaseHandler databaseHandler = new DatabaseHandler(server, port, database, username, password);
