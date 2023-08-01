@@ -27,4 +27,10 @@ Now you might be wondering what is the point of saving the equation to a databas
 The output of the above equation which made it into variables is here:
 (A1 + A2 * (A3 - A4)) / (A5 + (A6 / A7) * (A8 + A9)) - (A10 - (A11 * (A12 + A13))) * (((A14 - A15) + A16) / A17 - (A18 * A19)) + exp(A20) + log(A21) - log10(A22) + sqrt(A23) + sin(A24) + cos(A25) - tan(A26) + min(A27, A28) + max(A29, A30) + avg(A31, A32, A33, A34, A35) + std(A36, A37, A38, A39) + pi
 
+I have provided the PythonScript.py. Run that seperately or embed it into your application. I did not insert the equation into any database just printed the output.
+If you would like to add that you would be welcome to.
+
+If theres any issues in the code breaking or not successfully working. You can contact me through vagminaksharyadav@gmail.com. 
+Please remember the database used here for MySQL Workbench. If you want to use another database configure it correctly.
+
 As you can see now all you would have to do is replace the variables to reuse the equation.
